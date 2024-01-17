@@ -4,7 +4,7 @@ public class Program7
 {
 public static void Main(string[] args)
 {
-string file = @"E:\c#\LP.txt.txt";
+string file = @"E:\c#\LP.txt";
 System.Console.WriteLine("Reading File using File.ReadAllText()");
 if (File.Exists(file))
 {
